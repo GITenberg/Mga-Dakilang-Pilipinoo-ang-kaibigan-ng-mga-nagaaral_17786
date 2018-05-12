@@ -1,0 +1,27 @@
+_repo: Mga-Dakilang-Pilipinoo-ang-kaibigan-ng-mga-nagaaral_17786
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17786-h/images/cover_t.jpg
+creator:
+  author:
+    agent_name: Sevilla, Jose N.
+    alias: Sevilla, José N.
+    birthdate: 1880
+    deathdate: 1946
+    gutenberg_agent_id: '4869'
+    url: http://www.gutenberg.org/2009/agents/4869
+description: ''
+gutenberg_issued: '2006-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17786'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- Biography'
+- !lcc 'DS'
+title: Mga Dakilang Pilipino; o ang kaibigan ng mga nagaaral
+url: http://www.gutenberg.org/ebooks/17786
