@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4869'
     url: http://www.gutenberg.org/2009/agents/4869
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17786#Mga-Dakilang-Pilipinoo-ang-kaibigan-ng-mga-nagaaral
 gutenberg_issued: '2006-02-18'
 gutenberg_type: Text
 identifiers:
